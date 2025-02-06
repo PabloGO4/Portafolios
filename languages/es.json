@@ -1,0 +1,51 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "Desarrollador multiplataforma Full-Stack",
+        "parrafo-info": "Estudiante de programación enfocada al Desarrollo Multiplataforma Full-Stack. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Soy estudiante de Desarrollo Multiplataforma enfocado en programación Full-Stack.<br>Aspiro conseguir empleo en el mundo del Desarrollo Multiplataforma, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática, detallista, independiente y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Bachillerato",
+        "tiempo-formacion1": "2017 - 2019",
+        "formacion2": "Desarrollador Full-Stack",
+        "tiempo-formacion2": "2022 - 2024",
+        "formacion3": "Desarrollador de Aplicaciones Multiplataforma"
+    },
+
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "Protectora de Animales",
+        "info-proyecto1": "Aplicación para gestionar y promover la adopción responsable de mascotas, conectando protectoras con adoptantes.",
+        "title-proyecto2": "Portafolio",
+        "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
+        "title-proyecto3": "Ping-Pong",
+        "info-proyecto3": "Juego clásico de tenis de mesa en 2D donde dos jugadores compiten golpeando una pelota para evitar que el oponente la devuelva."
+    },
+
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "btn-enviar": "Enviar"
+    }
+}

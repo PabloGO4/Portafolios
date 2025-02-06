@@ -1,0 +1,51 @@
+{
+    "menu": {
+        "item2": "About Me",
+        "item3": "Skills",
+        "item4": "Education",
+        "item5": "Projects",
+        "item6": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "Hello! I’m",
+        "home_text-3": "Full-Stack Multiplatform Developer",
+        "parrafo-info": "Programming student focused on Full-Stack Multiplatform Development. As a lover of intuitive and aesthetically pleasing designs, I aim to create projects that provide the best user experience.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About Me",
+        "texto_sobreMi": "I’m a Multiplatform Development student focused on Full-Stack programming.<br>I aspire to find a job in the Multiplatform Development field, gain experience, acquire new knowledge, and strengthen my professional life.<br><br>I am an empathetic, detail-oriented, independent, and enthusiastic person, with skills focused on teamwork, assertive communication, problem-solving, responsibility, and proactivity. I enjoy learning from others and continuously improving myself."
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "formacion": {
+        "title": "Education",
+        "formacion1": "High School",
+        "tiempo-formacion1": "2017 - 2019",
+        "formacion2": "Full-Stack Developer",
+        "tiempo-formacion2": "2022 - 2024",
+        "formacion3": "Multiplatform Application Developer"
+    },
+
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "Hangman Game",
+        "info-proyecto1": "A game where the user must guess the secret word within a limited number of attempts. The word is randomly selected by the program, and the user loses when the hangman drawing is completed.",
+        "title-proyecto2": "Portfolio",
+        "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills, and a bit about my education.",
+        "title-proyecto3": "Ping-Pong",
+        "info-proyecto3": "An encryptor where the user can write a text, and the encryptor encodes it with pre-programmed keys. The encryptor also allows decrypting the text."
+    },
+
+    "contacto": {
+        "title": "Contact",
+        "text": "Fill out the form below, and I will get in touch with you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}
