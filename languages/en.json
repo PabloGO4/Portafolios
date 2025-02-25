@@ -35,7 +35,7 @@
 
     "proyectos": {
         "title": "Projects",
-        "title-proyecto1": "Hangman Game",
+        "title-proyecto1": "Animal Protector",
         "info-proyecto1": "A game where the user must guess the secret word within a limited number of attempts. The word is randomly selected by the program, and the user loses when the hangman drawing is completed.",
         "title-proyecto2": "Portfolio",
         "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills, and a bit about my education.",
